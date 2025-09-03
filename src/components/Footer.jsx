@@ -69,7 +69,7 @@ const Footer = () => {
         {/* Copyright */}
         <div className="text-center pt-8 border-t border-dark-700">
           <p className="text-gray-400 flex items-center justify-center gap-2">
-            © {currentYear} Your Name. Made with <FaHeart className="text-red-500" /> using React & Tailwind CSS
+            © {2025} Kata Ramya. Made with <FaHeart className="text-red-500" /> using React & Tailwind CSS
           </p>
         </div>
       </div>
